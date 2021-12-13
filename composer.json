@@ -1,0 +1,17 @@
+{
+    "name": "samples/samples",
+    "description": "PHP samples codes",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Samples\\Samples\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SIGUI Kessé Emmanuel",
+            "email": "developer@sikessem.com"
+        }
+    ],
+    "require": {}
+}
